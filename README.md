@@ -1,4 +1,4 @@
-# cscb-test
+# patricia-card
 
 ## Project setup
 ```
